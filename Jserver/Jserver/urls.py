@@ -11,5 +11,5 @@ urlpatterns = patterns('',
 
     url(r'^admin/', include(admin.site.urls)),
 
-    url(r'^api/',resolve_api),
+    url(r'^json/api',resolve_api),
 )
