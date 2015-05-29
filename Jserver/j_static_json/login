@@ -1,6 +1,8 @@
 {
-	"name":"1", 
-	"word":"2", 
-	"aaa":"3",
-	"aa" : "s",
+	
+	"code":0,
+	"msg":"success",
+	"data":{
+		"access_token":"aasdafdhdsjj1237"
+	}
 }
