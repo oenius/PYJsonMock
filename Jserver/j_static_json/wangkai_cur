@@ -1,7 +1,18 @@
 {
-    "code": "茶飘香",
+    "code": "茶飘香f",
     "msg": "酒罢去",
-    "data": {
-        "access_token": "聚朋友再回楼"
-    }
+    "data": [
+        {
+            "firstName": "Bill",
+            "lastName": "Gates"
+        },
+        {
+            "firstName": "George",
+            "lastName": "Bush"
+        },
+        {
+            "firstName": "Thomas",
+            "lastName": "Carter"
+        }
+    ]
 }
