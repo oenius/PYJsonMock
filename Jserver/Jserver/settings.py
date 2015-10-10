@@ -82,3 +82,5 @@ USE_TZ = True
 JSON_PATH = BASE_DIR + '/j_static_json/'
 
 STATIC_URL = '/static/'
+
+DEFAULT_CHARSET = "utf-8"
